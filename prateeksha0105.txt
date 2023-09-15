@@ -1,0 +1,2 @@
+git workshop 15 september 2023
+The workshop was good.Most of us are unfamiliar with git so we got to learn so many new things today.
